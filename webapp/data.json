@@ -1,0 +1,34 @@
+{
+    "_default": {
+        "1": {
+            "fname": "Valentine",
+            "lname": "Vaillant",
+            "phone_number": "+33 1 03 60 41 99",
+            "address": "95, rue Munoz\n17184 Gimenez"
+        },
+        "2": {
+            "fname": "Jules",
+            "lname": "Delorme",
+            "phone_number": "+33 (0)3 79 68 55 81",
+            "address": "9, chemin de L\u00e9v\u00eaque\n34075 De Sousa"
+        },
+        "3": {
+            "fname": "Isaac",
+            "lname": "Roche",
+            "phone_number": "+33 1 85 46 28 52",
+            "address": "55, rue Picard\n50033 Merle"
+        },
+        "4": {
+            "fname": "Christelle",
+            "lname": "Dupr\u00e9",
+            "phone_number": "+33 (0)6 57 27 46 69",
+            "address": "rue Paul\n43059 Brunel"
+        },
+        "5": {
+            "fname": "Arnaude",
+            "lname": "Millet",
+            "phone_number": "+33 4 65 25 02 73",
+            "address": "5, rue de Marchal\n25238 Coste"
+        }
+    }
+}
